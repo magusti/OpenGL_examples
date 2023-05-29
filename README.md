@@ -18,28 +18,28 @@ I tried to explicitly put the references from where I got the inspiration or the
 List of OPenGL related articles:
 <ul>
   <li> (2017). Ejemplos de aplicaciones 3D interactivas con OpenGL. http://hdl.handle.net/10251/83395. [[3D, OpenGL, interacción, ratón, teclado]]</li>
-  <li> (2023). Introducción al uso de GLUT como interfaz de alto nivel para OpenGL. [[]]. </li>
-  <li> (2023). Introducción al uso de GLFW como interfaz de alto nivel para OpenGL. [[]]. </li>
-
+  <li> (2023). Introducción al uso de GLUT como interfaz de alto nivel para OpenGL. [[]].</li>
+  <li> (2023). Introducción al uso de GLFW como interfaz de alto nivel para OpenGL. [[]].</li>
   <li> (2023). OpenGL clásico: un ejemplo en NDS y en el computador de escritorio. [[]]. </li>
   <li> (2023). OpenGL moderno: un ejemplo en la 3DS y en el computador de escritorio [[]]. </li>
-   <li> (2023). 
+<!--
+<li> (2023). 
  </li>
- </ul>
+-->
+</ul>
 
 
-Thanks
- to 
+Thanks to:
  <ul>
   <li>Mark J Kilgard (<a href="https://dl.acm.org/profile/81100186713"> ACM's profile</a>), for create <a href="http://user.xmission.com/~nate/es.html">GLUT</a>.</li>
-  <li><a href="http://user.xmission.com/~nate/tutors.html">Nate Robbins</a> for his tutorials.</li>.
-  <li><a href="https://www.khronos.org/">Khronos Group</a> for work on standards (<a href="https://www.khronos.org/opengl/wiki/Main_Page">Khronos Wiki</a>).</li>.
-  <li><a href="https://www.opengl.org/archives/resources/code/samples/redbook/">OpenGL v1.1 Programming Guide (Redbook)</a></li>.
-
+  <li><a href="http://user.xmission.com/~nate/tutors.html">Nate Robbins</a> for his tutorials.</li>
+  <li><a href="https://www.khronos.org/">Khronos Group</a> for work on standards (<a href="https://www.khronos.org/opengl/wiki/Main_Page">Khronos Wiki</a>).</li>
+  <li><a href="https://www.opengl.org/archives/resources/code/samples/redbook/">OpenGL v1.1 Programming Guide (Redbook)</a></li>
 <!--
 <li><a href=""></a></li>.
 -->
  <li> <a href="http://www.upv.es/ficha-personal/jlluch">R. Vivó</a> y <a href="http://www.upv.es/ficha-personal/jlluch">J. Lluch</a>. </li> 
 </ul>
+
 M. Agustí (2022-2023). magusti at disca.upv.es
 
