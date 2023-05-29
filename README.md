@@ -33,7 +33,6 @@ Thanks
  <ul>
   <li>Mark J Kilgard (<a href="https://dl.acm.org/profile/81100186713"> ACM's profile</a>), for create <a href="http://user.xmission.com/~nate/es.html">GLUT</a>.</li>
   <li><a href="http://user.xmission.com/~nate/tutors.html">Nate Robbins</a> for his tutorials.</li>.
-  <li>
   <li><a href="https://www.khronos.org/">Khronos Group</a> for work on standards (<a href="https://www.khronos.org/opengl/wiki/Main_Page">Khronos Wiki</a>).</li>.
   <li><a href="https://www.opengl.org/archives/resources/code/samples/redbook/">OpenGL v1.1 Programming Guide (Redbook)</a></li>.
 
