@@ -39,6 +39,20 @@ List of OpenGL related articles:
 <li> (2023). 
  </li>
 -->
+
+
+  <li> (2025). Bibliotecas de carga de OpenGL: portabilidad Switch-PC. https://riunet.upv.es/. Keyword: OpenGL moderno, bibliotecas auxiliares, Switch, PC, GLAD, GLEW, GL3W. Modern OpenGL is full of auxiliari libraries, here we explore the purpose of GLAD and also its related GLEW & GL3W on PC. 
+
+  ![Auxiliary libraries on classic and modern Switch & PC OpenGL](Switch_GLAD/bibliotecasAuxiliares_OpenGL_clasico_moderno.png)
+  ![Screenshots of OpenGL using GLAD in different platforms](Switch_GLAD/capturasDePantalla_GLAD_GLEW_GL3W.png)
+  ![Using GLAD on a project for Swith+devkitA64](Switch_GLAD/glad_enUnProyectoParaPC.png)
+
+  References:
+ * EGL for Switch (https://github.com/magusti/Switch-homebrew-development#egl-on-switch).
+ * GLAD, GLEW & GL3W on Switch (https://github.com/magusti/OpenGL_examples/tree/master/Switch__GLAD/).).
+ 
+  ![repo](https://github.com/magusti/OpenGL_examples/tree/master/PC__GLEW_GLAD_GL3W/).
+  </li>
 </ul>
 
 
