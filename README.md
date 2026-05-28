@@ -43,5 +43,5 @@ Thanks to:
  <li> <a href="http://www.upv.es/ficha-personal/jlluch">R. Vivó</a> y <a href="http://www.upv.es/ficha-personal/jlluch">J. Lluch</a>. </li> 
 </ul>
 
-M. Agustí (2022-2023). magusti at disca.upv.es
+M. Agustí (2022-2026). magusti at disca.upv.es
 
