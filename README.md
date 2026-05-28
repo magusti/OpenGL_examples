@@ -19,11 +19,11 @@ List of OpenGL related articles:
 <ul>
   <li> (2017). Ejemplos de aplicaciones 3D interactivas con OpenGL. http://hdl.handle.net/10251/83395. Keywords: 3D, OpenGL, interacción, ratón, teclado.</li>
   
-  <li> (2023). Introducción al uso de GLUT como interfaz de alto nivel para OpenGL. https://riunet.upv.es/handle/10251/197208. Keywords: GLUT, OpenGL, Sistemas interactivos e inmersivos, Realidad Aumentada, Realidad Virtual. [repo](https://github.com/magusti/OpenGL_examples/tree/master/GLUT_API).</li>
-  <li> (2023). Introducción al uso de GLFW como interfaz de alto nivel para OpenGL. https://riunet.upv.es/handle/10251/195224. Keywords: GLFW, OpenGL, Sistemas interactivos e inmersivos, Realidad Aumentada, Realidad Virtual.[repo](https://github.com/magusti/OpenGL_examples/tree/master/GLFW_API).</li>
-  <li> (2023). Introducción al desarrollo de aplicaciones inmersivas con OpenGL clásico. https://riunet.upv.es/handle/10251/193830. Keywords: OpenGL clásico, desarrollo de aplicaciones inmersivas, 3D, computador de escritorio, videoconsolas. This kind of examples of clasic OpenGL can be seen on NDS and desktop computers. [repo](https://github.com/magusti/OpenGL_examples/tree/master/OpenGL_clasic).
+  <li> (2023). Introducción al uso de GLUT como interfaz de alto nivel para OpenGL. https://riunet.upv.es/handle/10251/197208. Keywords: GLUT, OpenGL, Sistemas interactivos e inmersivos, Realidad Aumentada, Realidad Virtual. ![repo](https://github.com/magusti/OpenGL_examples/tree/master/GLUT_API).</li>
+  <li> (2023). Introducción al uso de GLFW como interfaz de alto nivel para OpenGL. https://riunet.upv.es/handle/10251/195224. Keywords: GLFW, OpenGL, Sistemas interactivos e inmersivos, Realidad Aumentada, Realidad Virtual.![repo](https://github.com/magusti/OpenGL_examples/tree/master/GLFW_API).</li>
+  <li> (2023). Introducción al desarrollo de aplicaciones inmersivas con OpenGL clásico. https://riunet.upv.es/handle/10251/193830. Keywords: OpenGL clásico, desarrollo de aplicaciones inmersivas, 3D, computador de escritorio, videoconsolas. This kind of examples of clasic OpenGL can be seen on NDS and desktop computers. ![repo](https://github.com/magusti/OpenGL_examples/tree/master/OpenGL_clasic).
   </li>
-  <li> (2023). Introducción al desarrollo de aplicaciones inmersivas con OpenGL moderno. https://riunet.upv.es/handle/10251/193830. Keyword: OpenGL moderno, desarrollo de aplicaciones inmersivas, 3D, computador de escritorio, videoconsolas. Modern OpenGL is used in platforms like 3DS, Switch or desktop computes. [repo](https://github.com/magusti/OpenGL_examples/tree/master/OpenGL_modern).</li>
+  <li> (2023). Introducción al desarrollo de aplicaciones inmersivas con OpenGL moderno. https://riunet.upv.es/handle/10251/193830. Keyword: OpenGL moderno, desarrollo de aplicaciones inmersivas, 3D, computador de escritorio, videoconsolas. Modern OpenGL is used in platforms like 3DS, Switch or desktop computes. ![repo](https://github.com/magusti/OpenGL_examples/tree/master/OpenGL_modern).</li>
 <!--
 <li> (2023). 
  </li>
